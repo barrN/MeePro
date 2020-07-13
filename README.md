@@ -1,2 +1,2 @@
 # MeePro
-AutoIt program to automate the macro intensive Dota2 hero Meepo
+AutoIt program to automate the micro intensive Dota2 hero Meepo
